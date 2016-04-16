@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ChattingUp</string>
+    <string name="action_add_person">Add person</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="profile_pic">Profile Picture</string>
+
+    <string name="title_sign_up">Sign Up</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+    <string name="editTextMessage">Type something!</string>
+    <string name="tab1_messages">Messages</string>
+    <string name="tab2_messages">Files</string>
+    <string name="tab3_messages">Profile</string>
+    <string name="invalid_string_messages">Can\'t send blank message</string>
+
+    <string name="action_sync">Sync chat</string>}
+
+    <string name="invalid_user_id">Enter a valid User id</string>
+
+    <string name="file_send_files">Select origin of file</string>
+    <string name="dialog_item1_files">Camera</string>
+    <string name="dialog_item2_files">Local file</string>
+
+</resources>

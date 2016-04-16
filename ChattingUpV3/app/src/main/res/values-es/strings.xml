@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_add_person">Añadir amigo</string>
+    <string name="action_search">Buscar</string>
+    <string name="drawer_open">Abrir</string>
+    <string name="drawer_close">Cerrar</string>
+
+    <string name="profile_pic">Foto de perfil</string>
+
+    <string name="title_sign_up">Registrarse</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="err_msg_name">Introduzca su nombre</string>
+    <string name="err_msg_email">Introduzca su correo</string>
+    <string name="err_msg_password">Introduzca su contraseña</string>
+    <string name="btn_sign_up">Registrarse</string>
+
+    <string name="editTextMessage">Escribe algo!</string>
+    <string name="tab1_messages">Mensajes</string>
+    <string name="tab2_messages">Archivos</string>
+    <string name="tab3_messages">Perfil</string>
+    <string name="invalid_string_messages">No se puede enviar mensaje en blanco</string>
+
+    <string name="action_sync">Sync chat</string>
+
+    <string name="invalid_user_id">Ingresar un id de usuario válido</string>
+
+    <string name="file_send_files">Selecciona el origen del archivo</string>
+    <string name="dialog_item1_files">Cámara</string>
+    <string name="dialog_item2_files">Archivo local</string>
+</resources>
